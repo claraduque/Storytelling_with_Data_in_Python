@@ -18,7 +18,7 @@ O curso é dividido em duas aulas:
 
 **Realização: Laboratório LORDE | COPPE/UFRJ:**
 
-[Linkedin](https://www.linkedin.com/company/lorde-ufrj) / lorde@petroleo.ufrj.br
+[Linkedin](https://www.linkedin.com/company/lorde-ufrj) / lorde@petroleo.ufrj.br\n
 [Youtube](https://www.youtube.com/channel/UCjc2gQvYyYG17T7syO66JgA/featured) 
 
 
