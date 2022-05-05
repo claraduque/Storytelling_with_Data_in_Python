@@ -3,12 +3,12 @@
 Material do minicurso elaborado pelo laboratório LORDE | COPPE/UFRJ com o objetivo de mostrar as principais bibliotecas gráficas do Python e como utiliza-las para criação de gráficos efetivos.
 
 O curso é dividido em duas aulas:
-  - [Aula 1] (https://www.youtube.com/watch?v=m_HcR_vC9xs&t=59s&ab_channel=LORDE-COPPE%2FUFRJ): 
+  - [Aula 1](https://www.youtube.com/watch?v=m_HcR_vC9xs&t=59s&ab_channel=LORDE-COPPE%2FUFRJ): 
     - Principais bibliotecas gráfica do Python; 
     - Tipos mais comuns de gráficos; 
     - Manipulação das bibliotecas para construção de gráficos organizados, claros e precisos.
 
-  - [Aula 2] (https://www.youtube.com/watch?v=Jtx8ZG2Dxl0&t=21s&ab_channel=LORDE-COPPE%2FUFRJ) 
+  - [Aula 2](https://www.youtube.com/watch?v=Jtx8ZG2Dxl0&t=21s&ab_channel=LORDE-COPPE%2FUFRJ) 
     - Exemplos práticos de como selecionar os melhores tipos de gráficos e como torná-los mais atraentes e direcionados ao público/leitor do gráfico.
 
 
@@ -27,7 +27,6 @@ O curso é dividido em duas aulas:
 **Apresentação:** 
 
 **Maria Clara Duque**
-[Maria Clara Duque](https://github.com/claraduque)
 [Linkedin](https://www.linkedin.com/in/maria-clara-duque-5a78972b/) / clara.duque@coppe.ufrj.br
 
 
